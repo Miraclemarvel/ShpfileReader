@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ShpReader">
+        <file>res/import.png</file>
+        <file>res/about.png</file>
+    </qresource>
+</RCC>
